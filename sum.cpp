@@ -2,6 +2,9 @@
 using namespace std;
 
  int main(){
-    cout<<"hello world";
+     int a=3;
+     int b=2;
+
+    cout<<"the sum is" <<a+b;
     return 0;
 }
