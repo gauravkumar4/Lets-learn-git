@@ -5,6 +5,6 @@ using namespace std;
      int a=3;
      int b=2;
 
-    cout<<"the sum is" <<a+b;
+    cout<<"the sum is " <<a+b;
     return 0;
 }
